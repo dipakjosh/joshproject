@@ -22,4 +22,10 @@ git log -> to get id of commit
 git show id of commit.
 
 git diff-> to check differnces of file with latest commit.
-git reset filename --> to reset file from staging area to untracked
+git reset filename --> to reset file from staging to untracked 
+
+git reset --soft HEAD~ --> to change from commited to staging area -- only need commit again
+changes not lost
+git reset --hard HEAD~ --> to change from commited to staging area -- only need commit again
+changes also lost
+
