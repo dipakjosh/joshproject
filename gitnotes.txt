@@ -10,7 +10,7 @@ git status ->to check status of file
 git commit ->to commit the changes (untracked file).
 git add . -> to add file in staging area
 lifecycle of file
-untracked file --> staging area(ready to commit) --> remoterepository
+untracked file --> staging area(ready to commit) -->after commit it is commited in local repo--> after pushing it goes intoremoterepository
 
 git commit -m "message";
 
@@ -22,3 +22,4 @@ git log -> to get id of commit
 git show id of commit.
 
 git diff-> to check differnces of file with latest commit.
+git reset filename --> to reset file from staging area to untracked
