@@ -1,0 +1,22 @@
+git is open source distributed version control system.
+git is content tracker.
+git has remote repo which is stored in server.and local repo stored in computer of each developer.
+
+what is repository
+location where all files for particular project are stored.
+
+git init -> for initializing 
+git status ->to check status of file
+git commit ->to commit the changes (untracked file).
+git add . -> to add file in staging area
+lifecycle of file
+untracked file --> staging area(ready to commit) --> remoterepository
+
+git commit -m "message";
+
+to config
+git config --global user.name "username";
+git config --user.email "yourmail@.com";
+
+git log -> to get id of commit
+git show id of commit
