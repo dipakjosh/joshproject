@@ -19,4 +19,4 @@ git config --global user.name "username";
 git config --user.email "yourmail@.com";
 
 git log -> to get id of commit
-git show id of commit
+git show id of commit.
