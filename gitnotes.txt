@@ -30,4 +30,6 @@ git reset --hard HEAD~ --> to change from commited to staging area -- only need 
 changes also lost
 
 git branching 
-rebase
+git commit -am "comment" ---> add + commit the changes
+
+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
