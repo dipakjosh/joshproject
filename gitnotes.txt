@@ -30,6 +30,9 @@ git reset --hard HEAD~ --> to change from commited to staging area -- only need 
 changes also lost
 
 git branching 
+<<<<<<< HEAD
 git commit -am "comment" ---> add + commit the changes
 
 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
+=======
+>>>>>>> 65a4a2cd5934d8b794090863c3fed993c785a8b2
