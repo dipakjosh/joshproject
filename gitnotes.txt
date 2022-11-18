@@ -29,3 +29,5 @@ changes not lost
 git reset --hard HEAD~ --> to change from commited to staging area -- only need commit again
 changes also lost
 
+git branching 
+rebase
